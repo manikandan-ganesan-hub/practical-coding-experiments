@@ -1,4 +1,4 @@
-# Low-Latency Coding Repository
+# Low-Latency & practical Coding Repository
 
 This repository is a **personal playground for low-latency programming and experiments**.  
 
